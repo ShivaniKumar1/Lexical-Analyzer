@@ -16,7 +16,7 @@ The output will print directly to the terminal.
 
 If there is a comment, starting with /*, that has no end */, then nothing will print.
 
-#Contributer
+# Contributer
 Nicole Freites
 
 
